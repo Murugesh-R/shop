@@ -7,3 +7,6 @@
 .nav-bg {
 	background-color: #343A40;
 }
+
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
